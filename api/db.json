@@ -1,0 +1,39 @@
+{
+	"courses": [
+		{
+			"id": 1,
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae neque porro explicabo veritatis earum rerum ducimus inventore cum ab provident dolorem, atque voluptatem, nemo repellat excepturi quasi soluta, officia debitis!",
+			"title": "Javascript",
+			"price": 50,
+			"image": "https://cdn.pixabay.com/photo/2023/11/25/14/50/ai-generated-8411866_640.jpg"
+		},
+		{
+			"id": 2,
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae neque porro explicabo veritatis earum rerum ducimus inventore cum ab provident dolorem, atque voluptatem, nemo repellat excepturi quasi soluta, officia debitis!",
+			"title": "C#",
+			"price": 80,
+			"image": "https://cdn.pixabay.com/photo/2021/09/09/04/38/binary-6609473_640.jpg"
+		},
+		{
+			"id": 3,
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae neque porro explicabo veritatis earum rerum ducimus inventore cum ab provident dolorem, atque voluptatem, nemo repellat excepturi quasi soluta, officia debitis!",
+			"title": "NodeJS",
+			"price": 30,
+			"image": "https://cdn.pixabay.com/photo/2023/11/25/05/31/ai-generated-8411065_640.jpg"
+		},
+		{
+			"id": 4,
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae neque porro explicabo veritatis earum rerum ducimus inventore cum ab provident dolorem, atque voluptatem, nemo repellat excepturi quasi soluta, officia debitis!",
+			"title": "HTML",
+			"price": 0,
+			"image": "https://cdn.pixabay.com/photo/2023/11/25/14/49/ai-generated-8411865_640.jpg"
+		},
+		{
+			"id": 5,
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae neque porro explicabo veritatis earum rerum ducimus inventore cum ab provident dolorem, atque voluptatem, nemo repellat excepturi quasi soluta, officia debitis!",
+			"title": "Phyton",
+			"price": 60,
+			"image": "https://cdn.pixabay.com/photo/2021/11/04/06/27/artificial-intelligence-6767502_640.jpg"
+		}
+	]
+}
