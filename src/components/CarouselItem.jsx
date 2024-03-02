@@ -5,7 +5,7 @@ export default function CarouselItem({ course }) {
     return (
         <>
             <div className={isActive}>
-                <img src={image} className="d-block w-100" alt="..." />
+                <img src={image} className="d-block w-100" height="500px" alt="..." />
                 <div className="carousel-caption d-none d-md-block">
                     <h5>{course.title}</h5>
                     <p>{course.content}</p>

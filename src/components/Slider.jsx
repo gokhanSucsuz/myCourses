@@ -24,11 +24,11 @@ export default function Slider() {
                     }
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-                    <span className="carousel-control-prev-icon" aria-hidden="true" />
+                    <span className="carousel-control-prev-icon bg-danger rounded-5" aria-hidden="true" />
                     <span className="visually-hidden">Previous</span>
                 </button>
                 <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-                    <span className="carousel-control-next-icon" aria-hidden="true" />
+                    <span className="carousel-control-next-icon bg-danger rounded-5" aria-hidden="true" />
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>

@@ -4,8 +4,9 @@ export default function Home() {
 
     return (
         <>
+            <h1 className="my-5">Home Page</h1>
             <Slider />
-            <h1>Home Page</h1>
+
 
         </>
     )
