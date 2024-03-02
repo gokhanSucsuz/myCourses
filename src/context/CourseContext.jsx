@@ -11,7 +11,7 @@ function CoursesContextProvider({ children }) {
     const [loading, setLoading] = useState(true)
     const fetchCourses = async () => {
         try {
-            const response = await axios.get("https://json-server-backend-beta.vercel.app/courses")
+            const response = await axios.get("http://localhost:3000/courses")
             setCourses(response.data)
             setLoading(false)
         } catch (error) {
